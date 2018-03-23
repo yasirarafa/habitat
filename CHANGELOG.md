@@ -1,5 +1,8 @@
 # Habitat CHANGELOG
 
+<!-- latest_release -->
+<!-- latest_release -->
+
 ## [0.55.0](https://github.com/habitat-sh/habitat/tree/0.55.0) (03-20-2018)
 [Full Changelog](https://github.com/habitat-sh/habitat/compare/0.54.0...0.55.0)
 
